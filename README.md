@@ -6,6 +6,8 @@
 
 **ERI Labs · Eric Ren · Jersey City, New Jersey · [github.com/ericrenone](https://github.com/ericrenone)**
 
+April 2026: https://github.com/ericrenone/GGT-GIBBS-GALAXY-THEORY
+
 ---
 
 > *"The aim of science is to make difficult things understandable in a simpler way."*
