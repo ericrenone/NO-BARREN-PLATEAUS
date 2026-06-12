@@ -5,8 +5,7 @@
 *A Spectral-Entropic Operator Framework for Gravity, Intelligence, Emergent Spacetime, and the Surprising Speed of Becoming Classical*
 
 *ERI Labs · Eric Ren · Jersey City, New Jersey · [github.com/ericrenone](https://github.com/ericrenone) · June 2026*
-
-April 2026: https://github.com/ericrenone/GGT-GIBBS-GALAXY-THEORY
+*April 2026: https://github.com/ericrenone/GGT-GIBBS-GALAXY-THEORY
 ---
 
 > **"The aim of science is to make difficult things understandable in a simpler way."** — Paul Dirac  
